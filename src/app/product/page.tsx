@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Product — Med Spa Agent Stack",
+  title: "Product — AesthetIQ",
   description:
     "Explore the Marketing, Operations, and Client Communications agents built specifically for med spa operators. Human-approved, always.",
 };

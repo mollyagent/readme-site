@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Blog — Med Spa Agent Stack",
+  title: "Blog — AesthetIQ",
   description:
     "Marketing, operations, and growth insights for modern med spa operators. Written by practitioners, for practitioners.",
 };

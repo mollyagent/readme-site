@@ -19,15 +19,15 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Med Spa Agent Stack — Your med spa, always on.",
+  title: "AesthetIQ — Your med spa, always on.",
   description:
     "AI agents that handle marketing, operations, and client communications for modern med spas. Done-for-you, human-approved.",
   openGraph: {
-    title: "Med Spa Agent Stack — Your med spa, always on.",
+    title: "AesthetIQ — Your med spa, always on.",
     description:
       "AI agents that handle marketing, operations, and client communications for modern med spas.",
     url: "https://medspaagentstack.com",
-    siteName: "Med Spa Agent Stack",
+    siteName: "AesthetIQ",
     type: "website",
   },
 };

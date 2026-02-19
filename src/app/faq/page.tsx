@@ -76,7 +76,7 @@ const sections = [
       },
       {
         q: "How do I approve content?",
-        a: "Via the Readme dashboard or email. Each item arrives in your approval queue with a preview, scheduled send time, and a one-click approve or reject. Rejected items return to the agent for revision with your notes.",
+        a: "Via the AesthetIQ dashboard or email. Each item arrives in your approval queue with a preview, scheduled send time, and a one-click approve or reject. Rejected items return to the agent for revision with your notes.",
       },
       {
         q: "What happens if I don't approve something in time?",

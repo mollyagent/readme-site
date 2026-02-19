@@ -36,7 +36,7 @@ export default function Nav() {
             href="/"
             className="font-[family-name:var(--font-playfair)] text-[22px] font-bold text-[#1A1A1A] tracking-tight hover:text-[#4A7C95] transition-colors"
           >
-            Readme
+            AesthetIQ
           </Link>
 
           {/* Desktop nav */}
@@ -93,7 +93,7 @@ export default function Nav() {
       >
         <div className="flex items-center justify-between p-6 border-b border-[#DDD8D0]">
           <span className="font-[family-name:var(--font-playfair)] text-xl font-bold text-[#1A1A1A]">
-            Readme
+            AesthetIQ
           </span>
           <button
             onClick={() => setOpen(false)}

@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Terms of Service — Med Spa Agent Stack",
-  description: "Terms of Service for Med Spa Agent Stack.",
+  title: "Terms of Service — AesthetIQ",
+  description: "Terms of Service for AesthetIQ.",
 };
 
 export default function TermsPage() {

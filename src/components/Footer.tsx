@@ -24,7 +24,7 @@ export default function Footer() {
               href="/"
               className="font-[family-name:var(--font-playfair)] text-2xl font-bold text-white hover:text-[#8FAF9F] transition-colors"
             >
-              Readme
+              AesthetIQ
             </Link>
             <p className="mt-3 text-sm text-white/60 leading-relaxed max-w-xs">
               Your med spa, always on. AI agents built for the modern aesthetics practice.
@@ -70,7 +70,7 @@ export default function Footer() {
         {/* Bottom bar */}
         <div className="pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-xs text-white/40">
-            © {new Date().getFullYear()} Med Spa Agent Stack. All rights reserved.
+            © {new Date().getFullYear()} AesthetIQ. All rights reserved.
           </p>
           <div className="flex items-center gap-6">
             {legalLinks.map((l) => (

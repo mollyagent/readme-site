@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Privacy Policy — Med Spa Agent Stack",
-  description: "Privacy Policy for Med Spa Agent Stack.",
+  title: "Privacy Policy — AesthetIQ",
+  description: "Privacy Policy for AesthetIQ.",
 };
 
 export default function PrivacyPage() {

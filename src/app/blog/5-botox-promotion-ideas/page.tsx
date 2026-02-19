@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "5 Botox Promotion Ideas That Actually Fill Your Calendar — Med Spa Agent Stack Blog",
+  title: "5 Botox Promotion Ideas That Actually Fill Your Calendar — AesthetIQ Blog",
   description:
     "Most med spa promotions compete on price. The ones that actually drive bookings compete on timing, specificity, and client psychology. Here's what works.",
 };
@@ -32,7 +32,7 @@ export default function BotoxPromotionArticle() {
             <span>·</span>
             <span>5 min read</span>
             <span>·</span>
-            <span>Med Spa Agent Stack Editorial</span>
+            <span>AesthetIQ Editorial</span>
           </div>
         </div>
       </section>
